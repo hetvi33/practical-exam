@@ -34,7 +34,7 @@ Roll Number: 102
 
 Here is the output screenshot of the program:
 
-![Student Output](screenshots/output.png)
+![Student Output](https://github.com/hetvi33/practical-exam/blob/master/que_1.png)
 
 
 ## Name: Hetvi Patel
