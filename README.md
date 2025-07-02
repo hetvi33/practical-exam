@@ -30,4 +30,11 @@ Roll Number: 101
 Name: Vrund
 Roll Number: 102
 
+## Screenshot
+
+Here is the output screenshot of the program:
+
+![Student Output](screenshots/output.png)
+
+
 ## Name: Hetvi Patel
